@@ -1,11 +1,11 @@
-
 ITALIAN
 
 v2.0, 1/03/14
 
 CARATTERISTICHE:
 
-	aggiunto il supporto per il carico psx ps2 dvd bluray iso con l'ultima MCU del team cobra. 
+	aggiunto il supporto per caricare i iso di psx ps2 dvd bluray con l'ultima MCU del team cobra.
+	autoriconoscimento per iso di ps3 psx ps2 dvd bluray 
 	aggiunto il supporto per l'avvio di showtime player dal opzione menu.
 	lavori in corso per copiare (backup) i giochi ps3 bluray. 
 	nuove icone per psx ps2 dvd bluray iso.
@@ -55,6 +55,7 @@ v2.0, 1/03/14
 
 	FEATURES:
 	Added support for loading psx ps2 dvd bluray iso with latest MCU from cobra team.
+	autodetection for ps3 ps2 psx dvd bluray iso
 	Added support for launching showtime from menu option.
 	Work in progress for backups ps3 bluray games .
 	New icons for psx ps2 dvd bluray iso. 
