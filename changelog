@@ -1,0 +1,96 @@
+
+ITALIAN
+
+v2.0, 1/03/14
+
+CARATTERISTICHE:
+
+	aggiunto il supporto per il carico psx ps2 dvd bluray iso con l'ultima MCU del team cobra. 
+	aggiunto il supporto per l'avvio di showtime player dal opzione menu.
+	lavori in corso per copiare (backup) i giochi ps3 bluray. 
+	nuove icone per psx ps2 dvd bluray iso.
+
+v0.1, 27/11/13
+--------------
+	
+	CARATTERISTICHE:
+	- Auto-eject: non è necessario riavviare la ps3 e premere manualmente il tasto eject
+	Selezionate il gioco, premete X, tornati alla XMB avviate il gioco dall'icona appena apparsa.
+	- Stealth: il manager viene visto come fosse il gioco "Catherine" e salva le impostazioni nella penna usb
+	* IMPORTANTE: Se volete salvare le impostazioni fatte in Ps3ita Ode Manager, PRIMA di avviare il manager inserite una penna usb nella porta destra della PS3 (quella più vicina al lettore). 
+	- Dimensione Gioco: la dimensione del gioco selezionato è visualizzata nella schermata principale in alto a destra
+	- Console id: il vostro IDPS viene visualizzato in "Opzioni Globali"
+	- Cobra Fw Ver: la versione del firmware installata sul vostro COBRA ODE viene visualizzata in "Opzioni Globali"
+	
+	AGGIUNTO DA PS3ITA MANAGER (CFW):
+	- FTP
+	- File Manager
+	- Cambia Gui (griglia 4x3, 6x4, 8x6)
+	- Cambia Colore Sfondo
+	- Cambia Lingua
+	- Regolazione Schermo
+	
+	NON INCLUSO:
+	- Musica sottofondo
+	- Favoriti
+	- Compatibilità Giochi PSX (il cobra non li supporta)
+	
+	PER DEV:
+	- Creare iso dal codice sorgente: modificate nel makefile SCETOOL_PATH, GENPS3ISO_PATH e date il comando "make iso"
+
+
+	GRAZIE A:
+	- Franzes: (admin di gamesonic) per aver contattato il Cobra Team. 
+	"Grazie franzes! ;), se non avessi messo una buona parola con il cobra team questo progetto non sarebbe forse mai esistito".
+	- Cobra Team Sales: per averci mandato gratuitamente un copia del Cobra Ode per i nostri test!
+	- Estwald and D_Skywalk: "Ho imparato molto studiando i source di Iris Manager, grazie ragazzi (Rancid-o ;))"
+	
+------------------------------------------------------------------------------------------------------------
+
+
+BrOken EnGriSh
+
+v2.0, 1/03/14
+-------------
+
+	FEATURES:
+	Added support for loading psx ps2 dvd bluray iso with latest MCU from cobra team.
+	Added support for launching showtime from menu option.
+	Work in progress for backups ps3 bluray games .
+	New icons for psx ps2 dvd bluray iso. 
+
+
+
+
+v0.1, 27/11/13
+--------------
+	
+	FEATURES:
+	- Auto-eject: switch games without rebooting the console and ejecting manually the disc
+	- Stealth: the manager is seen as the game "Catherine" and save the settings in your usb device
+	* IMPORTANT: If you want save the settings made in Ps3ita Ode Manager, insert a usb device in the right usb port of PS3 (/dev_usb000) BEFORE running the Manager
+	- Size Game: size of the game selected is shown in the main menù
+	- Console id: your IDPS is shown in "Global Settings"
+	- Cobra Fw Ver: firmware version installed in COBRA ODE is shown in "Global Settings"
+	
+	ADDED FROM PS3ITA MANAGER (CFW):
+	- FTP
+	- File Manager
+	- Change Gui (grid 4x3, 6x4, 8x6)
+	- Change Background Color
+	- Change Language
+	- Adjust Video
+	
+	NOT INCLUDED:
+	- Sound
+	- Favourites
+	- Compatibility with PSX Game (cobra not supported it)
+	
+	FOR DEV:
+	- Build iso from source code: modified in makefile SCETOOL_PATH, GENPS3ISO_PATH and type "make iso"
+	
+	
+	THANKS TO:
+	- Franzes (gamesonic admin): to have contacted the Cobra Team. "Thanks Friend!! ;)" 
+	- Cobra Team Sales: for sending us free a Cobra ODE unit for our test!
+	- Estwald and D_Skywalk: "I learned a lot with the source of Iris Manager, thanks guys (Rancid-o ;))"
